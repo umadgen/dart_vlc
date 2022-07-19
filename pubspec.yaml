@@ -19,7 +19,7 @@ dependencies:
   flutter_native_view:
     git:
       url: https://github.com/umadgen/flutter_native_view.git
-      ref: 790228a8a02cce8069c71f982cd0a711dee92eb2
+      ref: master
   window_manager: ^0.2.3
 
 # REMOVE THIS BEFORE PUBLISHING ON pub.dev.
